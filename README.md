@@ -1,1 +1,2 @@
 # PRODIGY_CS_04
+This project provides a basic keylogger program designed to record and log keystrokes. The tool captures keys pressed by the user and saves them to a log file for later review. It is intended for educational purposes, such as learning about keylogging techniques and understanding their potential risks and uses. This tool demonstrates fundamental concepts in keylogging and can be used to study and analyze keystroke data.
